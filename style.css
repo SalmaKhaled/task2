@@ -1,0 +1,53 @@
+.left{
+    float: left;
+    width:400px;
+
+}
+.right{
+    float: right;
+    padding-right: 250px;
+
+}
+
+#fo2{
+    margin-left: 26px
+}
+
+.sorty{
+    margin-left: 35px
+}
+
+.name{
+    margin-left: 25px
+
+}
+h2{
+    margin-left: 37px
+}
+h3{
+    margin-left: 68px
+/*color:#3d6cb0;*/
+}
+.prfil{
+    font-size: 25px
+}
+hr{
+    float: right;
+}
+.profile{
+    float: left;
+}
+.fa-user-circle-o{
+    font-size: 100px
+}
+.contactl{
+    float: left;
+    color: #3d6cb0;
+}
+.contactr{
+    float: right;
+    margin-right: 30px
+}
+li{
+    font-size: 25px
+}
